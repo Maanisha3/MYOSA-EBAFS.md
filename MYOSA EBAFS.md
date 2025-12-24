@@ -1,8 +1,12 @@
 publishDate:2025-10-
+
 title:Ergonomic Biomechanics and Active Feedback System 
+
 excerpt: MYOSA EBAFS actively enforces posture using multi-sensors, blocking device usage until correction, 
          while gamifying fitness with pressure-tracked dumbbell lifts and lighting safety alerts.
+
 image: your-cover-image.jpg
+
 tags:
   - Posture Compliance
   - Exercise Gamification
