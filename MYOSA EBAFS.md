@@ -41,13 +41,6 @@ Computer Vision Syndrome and eye strain. Together, these features illustrate how
 and environmental safety into a single interactive health intervention system that can be tested and experienced in everyday laptop use.
 
 ## Images
-**Images**
-
-<p align="center">
-  <img src="/Photo.jpg" width="800"><br/>
-  <i>floor of the house</i>
-</p>
-
 
 
 
